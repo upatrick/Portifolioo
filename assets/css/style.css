@@ -1,0 +1,27 @@
+/* === // === // index // === // === */
+
+.nav-pages:hover {
+    color: white !important;
+}
+.nav-icons:hover {
+    color: black !important;
+}
+.link-mail:hover {
+    color: #dc3545 !important;
+}
+.knowledge:hover, .goals:hover {
+    text-decoration:underline;
+    text-decoration-color: #dc3545;
+    text-transform: uppercase;
+}
+ol > li:hover {
+    text-transform: uppercase;
+}
+.personal:hover, .professional:hover {
+    text-decoration: underline;
+    text-transform: uppercase
+}
+ul > li:hover {
+    text-decoration: underline;
+}
+    
