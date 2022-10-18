@@ -1,7 +1,7 @@
 # Curriculo-Digital
 
 <div>
-    <img width="700px" src="README.md" alt="">
+    <img width="700px" src="/assets/images/readme.png" alt="">
 </div>
 
 Visite em: https://upatrick.github.io/Portifolioo/
