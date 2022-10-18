@@ -1,6 +1,6 @@
 # Curriculo-Digital
 
-<div align="center">
+<div>
     <img width="700px" src="README.md" alt="">
 </div>
 
